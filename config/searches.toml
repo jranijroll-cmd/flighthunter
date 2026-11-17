@@ -1,0 +1,11 @@
+provider = "mock"
+
+[[searches]]
+id = "rome-anywhere"
+origin = "FCO"
+destination = "ANYWHERE"
+currency = "EUR"
+departure_after_days = 7
+departure_before_days = 30
+drop_percent = 10
+threshold = 60
